@@ -1,0 +1,7 @@
+pdfminer
+PyPDF2
+PyMuPDF
+tabula-py
+pdfplumber
+pdf2image
+pytesseract

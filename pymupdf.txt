@@ -1,0 +1,191 @@
+Journal of Machine Learning Research 23 (2022) 1-4
+Submitted 1/21; Revised 5/22; Published 9/22
+Sample JMLR Paper
+Author One
+one@stat.washington.edu
+Department of Statistics
+University of Washington
+Seattle, WA 98195-4322, USA
+Author Two
+two@cs.berkeley.edu
+Division of Computer Science
+University of California
+Berkeley, CA 94720-1776, USA
+Editor: My editor
+Abstract
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Etiam lobortis facilisis sem.
+Nullam nec mi et neque pharetra sollicitudin. Praesent imperdiet mi nec ante. Donec
+ullamcorper, felis non sodales commodo, lectus velit ultrices augue, a dignissim nibh lectus
+placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor.
+Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis fringilla
+tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue
+a leo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blandit mauris.
+Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis. Mauris lacinia lorem sit
+amet ipsum. Nunc quis urna dictum turpis accumsan semper.
+Keywords:
+keyword one, keyword two, keyword three
+1. Introduction
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Etiam lobortis facilisis sem.
+Nullam nec mi et neque pharetra sollicitudin.
+Praesent imperdiet mi nec ante.
+Donec
+ullamcorper, felis non sodales commodo, lectus velit ultrices augue, a dignissim nibh lectus
+placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor.
+Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis fringilla
+tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue
+a leo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blandit mauris.
+Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis. Mauris lacinia lorem sit
+amet ipsum. Nunc quis urna dictum turpis accumsan semper.
+¯x = 1
+n
+i=n
+�
+i=1
+xi = x1 + x2 + . . . + xn
+n
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Etiam lobortis facilisis sem.
+Nullam nec mi et neque pharetra sollicitudin.
+Praesent imperdiet mi nec ante.
+Donec
+ullamcorper, felis non sodales commodo, lectus velit ultrices augue, a dignissim nibh lectus
+placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor.
+©2022 Author One and Author Two.
+License: CC-BY 4.0, see https://creativecommons.org/licenses/by/4.0/. Attribution requirements are provided
+at http://jmlr.org/papers/v23/21-0000.html.
+One and Two
+Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis fringilla
+tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue
+a leo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blandit mauris.
+Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis. Mauris lacinia lorem sit
+amet ipsum. Nunc quis urna dictum turpis accumsan semper.
+� ∞
+0
+e−αx2dx = 1
+2
+�� ∞
+−∞
+e−αx2dx
+� ∞
+−∞
+e−αy2dy = 1
+2
+�π
+α
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Etiam lobortis facilisis sem.
+Nullam nec mi et neque pharetra sollicitudin.
+Praesent imperdiet mi nec ante.
+Donec
+ullamcorper, felis non sodales commodo, lectus velit ultrices augue, a dignissim nibh lectus
+placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor.
+Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis fringilla
+tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue
+a leo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blandit mauris.
+Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis. Mauris lacinia lorem sit
+amet ipsum. Nunc quis urna dictum turpis accumsan semper.
+∞
+�
+k=0
+a0qk = lim
+n→∞
+n
+�
+k=0
+a0qk = lim
+n→∞ a0
+1 − qn+1
+1 − q
+=
+a0
+1 − q
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Etiam lobortis facilisis sem.
+Nullam nec mi et neque pharetra sollicitudin.
+Praesent imperdiet mi nec ante.
+Donec
+ullamcorper, felis non sodales commodo, lectus velit ultrices augue, a dignissim nibh lectus
+placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor.
+Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis fringilla
+tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue
+a leo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blandit mauris.
+Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis. Mauris lacinia lorem sit
+amet ipsum. Nunc quis urna dictum turpis accumsan semper.
+x1,2 = −b ±
+√
+b2 − 4ac
+2a
+= −p ±
+�
+p2 − 4q
+2
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Etiam lobortis facilisis sem.
+Nullam nec mi et neque pharetra sollicitudin.
+Praesent imperdiet mi nec ante.
+Donec
+ullamcorper, felis non sodales commodo, lectus velit ultrices augue, a dignissim nibh lectus
+placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor.
+Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis fringilla
+tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue
+a leo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blandit mauris.
+Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis. Mauris lacinia lorem sit
+amet ipsum. Nunc quis urna dictum turpis accumsan semper.
+∂2Φ
+∂x2 + ∂2Φ
+∂y2 + ∂2Φ
+∂z2 = 1
+c2
+∂2Φ
+∂t2
+2
+Sample JMLR Paper
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Etiam lobortis facilisis sem.
+Nullam nec mi et neque pharetra sollicitudin.
+Praesent imperdiet mi nec ante.
+Donec
+ullamcorper, felis non sodales commodo, lectus velit ultrices augue, a dignissim nibh lectus
+placerat pede. Vivamus nunc nunc, molestie ut, ultricies vel, semper in, velit. Ut porttitor.
+Praesent in sapien. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Duis fringilla
+tristique neque. Sed interdum libero ut metus. Pellentesque placerat. Nam rutrum augue
+a leo. Morbi sed elit sit amet ante lobortis sollicitudin. Praesent blandit blandit mauris.
+Praesent lectus tellus, aliquet aliquam, luctus a, egestas a, turpis. Mauris lacinia lorem sit
+amet ipsum. Nunc quis urna dictum turpis accumsan semper.
+Here is a citation Chow and Liu (1968).
+Acknowledgments and Disclosure of Funding
+All acknowledgements go at the end of the paper before appendices and references. More-
+over, you are required to declare funding (ﬁnancial activities supporting the submitted
+work) and competing interests (related ﬁnancial activities outside the submitted work).
+More information about this disclosure can be found on the JMLR website.
+3
+One and Two
+Appendix A.
+In this appendix we prove the following theorem from Section 6.2:
+Theorem Let u, v, w be discrete variables such that v, w do not co-occur with u (i.e., u ̸=
+0 ⇒ v = w = 0 in a given dataset D). Let Nv0, Nw0 be the number of data points for which
+v = 0, w = 0 respectively, and let Iuv, Iuw be the respective empirical mutual information
+values based on the sample D. Then
+Nv0 > Nw0
+⇒
+Iuv ≤ Iuw
+with equality only if u is identically 0.
+Proof. We use the notation:
+Pv(i) = Ni
+v
+N ,
+i ̸= 0;
+Pv0 ≡ Pv(0) = 1 −
+�
+i̸=0
+Pv(i).
+These values represent the (empirical) probabilities of v taking value i ̸= 0 and 0 respec-
+tively. Entropies will be denoted by H. We aim to show that ∂Iuv
+∂Pv0 < 0....
+Remainder omitted in this sample. See http://www.jmlr.org/papers/ for full paper.
+References
+C. K. Chow and C. N. Liu. Approximating discrete probability distributions with depen-
+dence trees. IEEE Transactions on Information Theory, IT-14(3):462–467, 1968.
+4
